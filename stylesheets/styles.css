@@ -1,0 +1,41 @@
+
+ #map1 {
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    margin-top: 20px;
+    margin-left: 200px;
+    padding: 0;
+    height: 80%;
+    width: 50%;
+}
+
+#map2 {
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:300px;
+    right:0;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 270px;
+}
+
+
+.my-div-icon {
+    background-color: orange;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.diff-icon {
+    background-color: green;
+    border: 1px solid black;
+}
+
+.what {
+    border-radius: 5px;
+}
