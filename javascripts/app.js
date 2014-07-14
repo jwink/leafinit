@@ -69,7 +69,7 @@ $(function() {
   $.each(quad_bk, function(index, point) {
     var marker = L.circleMarker([point.lat, point.lon], {radius: Math.floor(Math.random()*8),
                            color: '#000000',
-                           fillColor: '#999999',
+                           fillColor: '#000000',
                            opacity: 1,
                            stroke: true,
                            fillOpacity: 1});
